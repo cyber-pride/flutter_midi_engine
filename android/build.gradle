@@ -55,5 +55,5 @@ kotlin {
 
 dependencies {
     // FluidSynth-compatible MIDI driver for Android - supports SF2/SF3
-    implementation 'com.github.billthefarmer:mididriver:1.25'
+    implementation 'io.github.nikita36078:mididriver:v1.30'
 }
